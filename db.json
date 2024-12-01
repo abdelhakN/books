@@ -1,54 +1,53 @@
-
 {
-"books" : [
-{
-"id":1,
-"image":"https://m.media-amazon.com/images/I/712cDO7d73L._AC_UF1000,1000_QL80_.jpg"
-"title":"The hobbit"
-"category":"Fantasy",
-"author":"J. R. R. Tolkien",
-"price" :60 
-},
-{
-"id":2,
-"image":"https://m.media-amazon.com/images/I/71ThyyQ4g6L.jpg",
-"title":"Art of War",
-"category":"Strategy",
-"author":"Sun tzu ",
-"price" :55
-},
-{
-"id":3,
-"image":"https://images.epagine.fr/191/9781781259191_1_75.jpg",
-"title":"The laws of human nature",
-"category":"Self-help",
-"author":"Robert Greene",
-"price" :35
-},
-{
-"id":4,
-"image":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1388491606i/35289.jpg",
-"title":"The 33 strategies of War"
-"category":"Strategy"
-"author":"Robert Greene",
-"price" : 70
+  "books": [
+    {
+      "id": 1,
+      "image": "https://m.media-amazon.com/images/I/712cDO7d73L._AC_UF1000,1000_QL80_.jpg",
+      "title": "The Hobbit",
+      "category": "Fantasy",
+      "author": "J. R. R. Tolkien",
+      "price": 60
+    },
+    {
+      "id": 2,
+      "image": "https://m.media-amazon.com/images/I/71ThyyQ4g6L.jpg",
+      "title": "Art of War",
+      "category": "Strategy",
+      "author": "Sun Tzu",
+      "price": 55
+    },
+    {
+      "id": 3,
+      "image": "https://images.epagine.fr/191/9781781259191_1_75.jpg",
+      "title": "The Laws of Human Nature",
+      "category": "Self-help",
+      "author": "Robert Greene",
+      "price": 35
+    },
+    {
+      "id": 4,
+      "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1388491606i/35289.jpg",
+      "title": "The 33 Strategies of War",
+      "category": "Strategy",
+      "author": "Robert Greene",
+      "price": 70
+    }
+  ],
+  "categories": [
+    {
+      "category_id": 1,
+      "category_name": "Self-help",
+      "category_desc": "bhdbjbhdzbh"
+    },
+    {
+      "category_id": 2,
+      "category_name": "Strategy",
+      "category_desc": "bhdbjbhdzbh"
+    },
+    {
+      "category_id": 3,
+      "category_name": "Fantasy",
+      "category_desc": "bhdbjbhdzbh"
+    }
+  ]
 }
-],
-
-"categories" :[
-{
-"category_id":1,
-"category_name":"Self-help",
-"category_desc":"bhdbjbhdzbh"
-},
-"category_id":,
-"category_name":"Strategy",
-"category_desc":"bhdbjbhdzbh"
-},
-"category_id":1,
-"category_name":"Fantasy",
-"category_desc":"bhdbjbhdzbh"
-}
-]
-}
-
