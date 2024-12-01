@@ -33,7 +33,8 @@
 "author":"Robert Greene",
 "price" : 70
 }
-]
+],
+
 "categories" :[
 {
 "category_id":1,
